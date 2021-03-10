@@ -1,5 +1,5 @@
 #include <Wire.h>                 //Bibioteca para lidar com a comunicação I2C utilizada pelo display Oled
-#include <Adafruit_GFX.h>         //TIRARRR
+#include <Adafruit_GFX.h>         //Biblioteca da Adafuit para manipular imagens e vetores para o display
 #include <Adafruit_SSD1306.h>     //Biblioteca da Adafuit com funçoes para trabalhar com o display Oled
 
 /* Aqui instanciamos a Adafruit_SSD1306, passando para o metodo construtor da mesma
