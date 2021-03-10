@@ -56,10 +56,6 @@ siga os passos descritos [aqui](https://randomnerdtutorials.com/installing-the-e
 		OBS: Algumas placas ESP32 necessitam que o botao "boot" na placa, seja mantido pressionado durante o upload do codigo.
 
 
-<br/><br/>
-   ![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/test.gif)
-<br/><br/>
-
 ### Licença:
 
 
