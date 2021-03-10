@@ -37,6 +37,7 @@ O presente projeto é uma calculadora desenvolvida por discentes do IFG, utiliza
 #### Montagem pratica:
 
   - Esquma eletrico
+  
   ![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/esquemaEletrico.bmp)
   
 
