@@ -5,7 +5,8 @@
 O presente projeto é uma calculadora desenvolvida por discentes do IFG, utilizando um teclado matricial 4x4 e um display OLED, conectados a um microcontrolador ESP32. A seguir segue uma video apresentação sobre o projeto.
 
 <p align="center">
-  <a href="https://youtu.be/XzZY5017TaU"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
+Video apresentação do projeto.
+  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
 </p>
 
  <br/><br/>
